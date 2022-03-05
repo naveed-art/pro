@@ -64,4 +64,4 @@ new_game()
 while play_again():
     new_game()
 
-print("Bye!!") 
+print("Bye!!!") 
